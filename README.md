@@ -13,4 +13,4 @@ So what will we do in this practice?
 ![ScreenShot](https://github.com/php-cuong/magento2-category-filter/blob/main/Screenshot/category-filtering.gif)
 
 # See the video How to add the category filter to product grid in Magento 2 Admin.
-https://www.youtube.com/watch?v=2TojcPMVNzw&list=PL98CDCbI3TNvPczWSOnpaMoyxVISLVzYQ&index=70
+https://www.youtube.com/watch?v=aoJtnCWTm1I&list=PL98CDCbI3TNvPczWSOnpaMoyxVISLVzYQ&index=86
